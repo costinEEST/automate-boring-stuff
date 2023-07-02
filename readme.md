@@ -1,4 +1,1 @@
-- Buy the [course](https://www.udemy.com/course/automate) or the [book](https://automatetheboringstuff.com) or watch the [videos](https://www.youtube.com/playlist?list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW)
-- View the execution of a program using the [Python Tutor](https://pythontutor.com) visualization tool
-- https://www.google.com/search?q=autopep8+black+yapf
-- https://programming-idioms.org/cheatsheet/Ruby/Python
+The book applied in any programming language

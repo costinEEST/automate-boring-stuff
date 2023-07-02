@@ -1,0 +1,9 @@
+- `false` and `nil` are the only [falsy values](https://rubyapi.org/3.1/o/falseclass) in Ruby
+- In Rails, using the [`present?` method](https://api.rubyonrails.org/classes/Object.html#method-i-present-3F), `''` and `[]` are evaluated to false
+- https://speakerdeck.com/makicamel/automate-the-boring-staff-with-ruby
+- https://www.reddit.com/r/ruby/comments/b4w49p/have_you_guys_automated_any_daytoday_tasks_with
+- https://github.com/hanmd82/everyday_scripting_with_ruby
+- https://github.com/jomarnavarro/ruby_scripting
+- https://dev.to/maxwell_dev/my-first-taste-of-ruby-task-automation-in-22-lines-3gib
+- https://blog.sentry.io/2022/07/21/automate-your-boring-tasks-with-ruby
+- https://code.brettchalupa.com/scripting-with-ruby
